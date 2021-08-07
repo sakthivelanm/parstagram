@@ -1,8 +1,8 @@
-# Project 3 - *Instagram Clone*
+# Project 3 - *Parstagram*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Parstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [X] User can sign up to create a new account using Parse authentication.
 - [X] User can log in and log out of his or her account.
 - [X] The current signed in user is persisted across app restarts.
-- [ ] User can take a photo, add a caption, and post it to "Instagram".
+- [x] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -19,21 +19,18 @@ The following **optional** features are implemented:
 - [ ] Style the feed to look like the real Instagram feed.
 - [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='parstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had difficulty understanding how back4app was being connected to the project. Specifically how my account would be linked and the project that I specficially made would be understood by AndroidStudio. 
 
 ## Open-source libraries used
 
